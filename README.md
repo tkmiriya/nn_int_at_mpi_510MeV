@@ -18,6 +18,10 @@ eigenvalue decomposition (only ground state and 1st excited state) at L = 48
 
 Test code to calculate potential and eigenfunction from R-correlator
 
-check L = 48 pot..ipynb
++ check L = 48 pot..ipynb
 
-Test for L = 48 results
+Test for potential at L = 48
+
++ check L = 64 R-corr..ipynb
+
+Test for R-correlator at L = 64
